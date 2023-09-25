@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyCode/EasyCode.iml" filepath="$PROJECT_DIR$/EasyCode/EasyCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringVueCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringVueCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/hjy-community/hjy-community.iml" filepath="$PROJECT_DIR$/hjy-community/hjy-community.iml" />
     </modules>

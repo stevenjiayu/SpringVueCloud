@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hjy-community" />
+        <module name="EasyCode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="EasyCode" target="1.5" />
       <module name="hjy-community" target="11" />
     </bytecodeTargetLevel>
   </component>
